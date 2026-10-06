@@ -3,7 +3,7 @@ package com.smoothframe.render;
 import com.smoothframe.config.SmoothFrameConfig;
 import net.minecraft.client.renderer.entity.state.EntityRenderState;
 import net.neoforged.neoforge.client.event.RenderNameTagEvent;
-import net.neoforged.neoforge.common.util.TriState;
+import net.minecraft.util.TriState;
 
 /**
  * Cheap name-tag culling that runs after Minecraft has extracted the render state.
