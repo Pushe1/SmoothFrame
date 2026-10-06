@@ -1,0 +1,5 @@
+{
+  "smoothframe.hud.title": "SmoothFrame 2.0",
+  "smoothframe.configuration.nameTagCulling": "Cull distant entity name-tags",
+  "smoothframe.configuration.nameTagDistance": "Name-tag culling distance"
+}
